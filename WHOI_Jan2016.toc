@@ -1,0 +1,7 @@
+\beamer@endinputifotherversion {3.24pt}
+\select@language {english}
+\beamer@sectionintoc {1}{The model: NEMO}{4}{0}{1}
+\beamer@sectionintoc {2}{Surface: Mixed Layer Depth}{17}{0}{2}
+\beamer@sectionintoc {3}{Interior: Steric variability}{24}{0}{3}
+\beamer@sectionintoc {4}{Bottom: Bottom Pressure Torque}{34}{0}{4}
+\beamer@sectionintoc {5}{Utility}{45}{0}{5}
